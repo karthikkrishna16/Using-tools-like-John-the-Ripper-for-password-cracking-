@@ -54,7 +54,15 @@ john --show myhashes.txt
 4. **Password Recovery** – Successfully cracked passwords are displayed.
 
 ## OUTPUT:
-Cracked Passwords from Hash File
+Create a Password-Protected ZIP File
+<img width="585" height="145" alt="Screenshot 2026-09-01 160835" src="https://github.com/user-attachments/assets/3623926d-b61f-4738-adcc-c1d3de8fa5e1" />
+
+Crack the ZIP Password using John
+<img width="427" height="110" alt="image" src="https://github.com/user-attachments/assets/60f09aa7-de3c-46bb-9492-1226fa9b8079" />
+
+<img width="1407" height="291" alt="image" src="https://github.com/user-attachments/assets/17318fb2-0183-4cfe-abea-3a70c64348d1" />
+
+<img width="801" height="131" alt="image" src="https://github.com/user-attachments/assets/c07abd35-1f86-4953-9c1a-905a70d38b49" />
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
